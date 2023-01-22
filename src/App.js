@@ -1,5 +1,6 @@
-import React from "react";
+import { React } from "react";
 import { Navbar, Brand, CTA } from "./components";
+import "./App.css";
 import {
   Footer,
   Blog,
@@ -11,7 +12,19 @@ import {
 const App = () => {
   return (
     <div>
-      <h1>GPT-3</h1>
+      <div className="App">
+        <div className="graidient__bg">
+          <Navbar />
+          <Header />
+        </div>
+        <Brand />
+        <WhatGPT3 />
+        <Features />
+        <Possibility />
+        <CTA />
+        <Blog />
+        <Footer />
+      </div>
     </div>
   );
 };
