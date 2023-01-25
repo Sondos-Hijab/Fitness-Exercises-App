@@ -1,4 +1,4 @@
-# Modern UI/UX GPT-3
+# GPT-3 Website
 ### [Live Site](https://dapper-mermaid-48db98.netlify.app/)
 
 ## As a result of applying this project, I learned:
