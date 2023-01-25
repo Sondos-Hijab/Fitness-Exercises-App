@@ -1,6 +1,8 @@
 # GPT-3 Website
 ### [Live Site](https://dapper-mermaid-48db98.netlify.app/)
 
+![My Image](gpt3.png)
+
 ## As a result of applying this project, I learned:
 
 ✅React Functional components and their reusability
